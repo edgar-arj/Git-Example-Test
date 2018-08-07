@@ -11,8 +11,9 @@ Y gilberto exclamo
 >>              Squibidi pa, pa 
 >         Y el pum, pum, pum, pum, pum 
 Repo para saber como usar github con sourcetree
-Line added by Gilberto
 New Line 
 Line added by Angel plox 
-Another line by gil test 24
-modificacion ansina
+Another line by gil test 24  
+modificacion ansina  
+Line added by Angel plox  
+modificacion ansina  
